@@ -1,0 +1,13 @@
+{
+  "author": "",
+  "name": "flint-app-d3shape",
+  "repository": "https://github.com/d3shape",
+  "description": "",
+  "version": "1.0.0",
+  "main": "",
+  "scripts": {},
+  "dependencies": {
+    "d3-shape": "^0.2.0"
+  },
+  "installed": []
+}
